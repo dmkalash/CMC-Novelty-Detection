@@ -1,0 +1,5 @@
+/case/twitter_dataset/
+/case/data/
+/case/datasets/
+/case/.ipynb_checkpoints/
+*.csv
